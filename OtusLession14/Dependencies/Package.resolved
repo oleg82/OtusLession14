@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
+        "state": {
+          "branch": null,
+          "revision": "75bba56748359f297a83f620d45f72cf4ebee4e7",
+          "version": "4.8.2"
+        }
+      },
+      {
+        "package": "GithubManager",
+        "repositoryURL": "https://github.com/oleg82/GithubManager.git",
+        "state": {
+          "branch": null,
+          "revision": "0833b0c1979db770e72e8d1ba2744cc226ae9a39",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:OtusLession14/Dependencies/Dependencies.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "container:OtusLession14.xcodeproj">
+   </FileRef>
+</Workspace>
